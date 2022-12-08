@@ -1,0 +1,15 @@
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\bin\Debug\net6.0\caracteresETexto.exe
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\bin\Debug\net6.0\caracteresETexto.deps.json
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\bin\Debug\net6.0\caracteresETexto.runtimeconfig.json
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\bin\Debug\net6.0\caracteresETexto.dll
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\bin\Debug\net6.0\caracteresETexto.pdb
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\caracteresETexto.csproj.AssemblyReference.cache
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\caracteresETexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\caracteresETexto.AssemblyInfoInputs.cache
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\caracteresETexto.AssemblyInfo.cs
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\caracteresETexto.csproj.CoreCompileInputs.cache
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\caracteresETexto.dll
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\refint\caracteresETexto.dll
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\caracteresETexto.pdb
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\caracteresETexto.genruntimeconfig.cache
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\caracteresETexto\obj\Debug\net6.0\ref\caracteresETexto.dll

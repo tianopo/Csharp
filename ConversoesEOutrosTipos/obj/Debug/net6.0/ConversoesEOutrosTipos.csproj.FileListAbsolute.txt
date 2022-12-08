@@ -1,0 +1,15 @@
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.exe
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.deps.json
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.runtimeconfig.json
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.dll
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.pdb
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.dll
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\refint\ConversoesEOutrosTipos.dll
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.pdb
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.genruntimeconfig.cache
+C:\aprendendoCSharp\3 - criandoVariaveisPontoFlutuante\ConversoesEOutrosTipos\obj\Debug\net6.0\ref\ConversoesEOutrosTipos.dll
